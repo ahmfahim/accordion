@@ -18,4 +18,5 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
-# accordion
+# accordion live link
+https://cranky-euler-13292a.netlify.app/
